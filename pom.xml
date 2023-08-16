@@ -35,7 +35,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.85.57.197:8081/#browse/browse:pavan-releases</url>
+		    <url>http://54.85.57.197:8081/repository/pavan-releases/</url>
 		</repository>
   	</distributionManagement>
 	
